@@ -3,7 +3,7 @@ from google import genai
 
 # --- ૧૦૦% લોકલ રન માટે ડાયરેક્ટ કી સેટઅપ ---
 # ગિટહબ પર અપલોડ કરતા પહેલા સુરક્ષા માટે આ લાઇન આપણે બદલીશું, પણ અત્યારે રન કરવા માટે આ બેસ્ટ છે!
-GOOGLE_API_KEY = "AQ.Ab8RN6II-RCXyyUbihvRaTzD5_JLIrJlCnNJjoho_RmpZAyHzQ"
+GOOGLE_API_KEY = "AQ.Ab8RN6Jx0-RTiBiw-VJR6PT-j08d3-pSwOOone7Eygc1LiDZNA"
 # Initialize the new GenAI client
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
